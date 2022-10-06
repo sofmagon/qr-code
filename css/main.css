@@ -60,28 +60,3 @@ img {
     color: var(--grayishBlue);
     font-size: 1.5rem;
 }
-
-/*.attribution {
-    background-color: var(--darkBlue);
-    color: var(--white);
-    padding: 1rem;
-    margin: 0;
-    font-size: 1.8rem;
-    text-align: center;
-}
-
-.attribution a {
-    color: var(--white);
-    text-decoration: none;
-    font-weight: 700;
-}*/
-
-/* Mobile */
-@media (min-width: 375px) {
-    
-}
-
-/* Desktop */
-@media (min-width: 1440px) {
-    
-}
